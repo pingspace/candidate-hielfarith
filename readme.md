@@ -6,7 +6,7 @@
 4. In the dropdown menu, select the "HTTPS" option.
 5. Copy the HTTPS URL provided (e.g., https://github.com/pingspace/candidate-hielfarith.git).
 6. In the terminal or command prompt, use the git clone command followed by the copied URL. For example:
-    > git clone https://github.com/username/repository.git
+    > git clone https://github.com/pingspace/candidate-hielfarith.git
 
 7. Press Enter to execute the command.
 8. If prompted, enter your GitHub username and password to authenticate.
